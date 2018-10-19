@@ -1,0 +1,17 @@
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojAssemblyReference.cache
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\EmployeeDetails.g.cs
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\MainWindow.g.cs
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\App.g.cs
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection_MarkupCompile.cache
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection_MarkupCompile.lref
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\EmployeeDetails.baml
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\MainWindow.baml
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.g.resources
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.Properties.Resources.resources
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.GenerateResource.cache
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+C:\Users\suvasaho\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
